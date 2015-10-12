@@ -68,7 +68,7 @@ function github(a,t,f){
 
   $("#repo").hide( "slow" );
 
-  var me = new Gh3.User("thez3ro")
+  var me = new Gh3.User("b4dtR1p")
   ,	repositories = $("#repo");
 
   //get some repositories
